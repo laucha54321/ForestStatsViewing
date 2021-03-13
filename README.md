@@ -3,10 +3,10 @@ The idea with this repository is to make a tool for analyzing the data collected
 Here is the webpage of [Forest](https://www.forestapp.cc)
 
 There are some python modules that need to be installed and imported for it to work, this modules are the following:
--pandas (it needs to be [installed](https://pandas.pydata.org))
--sys
--re
--datetime
+- pandas (it needs to be [installed](https://pandas.pydata.org))
+- sys
+- re
+- datetime
 
 The location of the exported file can ve modified in the line:
 df = pandas.read_csv('Forest.csv',names=col_names,skiprows=[0],usecols=[0,1,2,5])
