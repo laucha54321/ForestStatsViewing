@@ -1,6 +1,6 @@
 # ForestStatsViewing
 The idea with this repository is to make a tool for analyzing the data collected with the Forest app. It uses the exports from the app.
-Here is the webpage of [Forest](https://www.forestapp.cc)
+Here is the webpage of [Forest](https://www.forestapp.cc).
 
 There are some python modules that need to be installed and imported for it to work, this modules are the following:
 - pandas (it needs to be [installed](https://pandas.pydata.org))
